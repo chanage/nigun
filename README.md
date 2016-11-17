@@ -11,7 +11,7 @@
 
 קישור להפצה נוכחית של המוצר:  
 
-קישור לצ'אט:  https://gitter.im/jce-il-se-class-2017a-nigun/Lobby‏
+קישור לצ'אט:  https://gitter.im/jce-il-se-class-2017a-nigun
 
 
 קישור למערכת ניהול המשימות:  
