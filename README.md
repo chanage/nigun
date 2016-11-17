@@ -29,7 +29,3 @@ https://github.com/chagitniss/nigun/issues
   
 *תכנון:  
   
-
-
-
-
