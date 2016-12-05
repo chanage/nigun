@@ -17,7 +17,7 @@
 קישור למערכת ניהול המשימות:  
 https://github.com/chagitniss/nigun/issues  
 
-קישור ללוח המשימות:
+קישור ללוח המשימות:  
 https://github.com/chagitniss/nigun/projects/1
 
 פרוייקט זה מבוצע במסגרת קורס הנדסת תוכנה עזריאלי מכללה להנדסה ירושלים.
